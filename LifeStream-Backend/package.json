@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Mohammad Rayan",
+  "author": "Mohammad Rayan <https://github.com/Mohammad-Rayan>",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^6.0.0",

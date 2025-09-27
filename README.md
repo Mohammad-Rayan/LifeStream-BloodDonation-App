@@ -53,6 +53,11 @@ Each project has its own detailed setup instructions:
 
 Both projects include `.env.example` files with required environment variables. Copy these files to `.env` and configure with your own values before running the applications.
 
+## 👥 Contributors
+
+- **[Mohammad Rayan](https://github.com/Mohammad-Rayan)** - Full-stack Development, Project Lead
+- **[Abdul Wahab Subhani](https://github.com/Abdul-Wahab-Subhani)** - Frontend Development
+
 ## 🤝 Contributing
 
 1. Fork the repository

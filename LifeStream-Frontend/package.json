@@ -2,6 +2,10 @@
   "name": "lifestream-frontend",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "author": "Mohammad Rayan <https://github.com/Mohammad-Rayan>",
+  "contributors": [
+    "Abdul Wahab Subhani <https://github.com/Abdul-Wahab-Subhani>"
+  ],
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
