@@ -63,6 +63,11 @@ This is the backend for the Blood Donation Application, built with Node.js, Expr
 ## Security Notes
 - Never expose your `.env` file or secrets.
 - Use HTTPS in production.
+  
+## � Contributors
+
+- **[Mohammad Rayan](https://github.com/Mohammad-Rayan)** - Full-stack Development, Project Lead
+- **[Abdul Wahab Subhani](https://github.com/Abdul-Wahab-Subhani)** - Frontend Development
 
 ## License
 ISC
