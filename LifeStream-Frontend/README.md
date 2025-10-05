@@ -155,4 +155,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Expo Router Documentation](https://docs.expo.dev/router/introduction/)
 
 ## Authors
--- **[Abdul Wahab Subhani](https://github.com/Abdul-Wahab-Subhani)**
+- **[Abdul Wahab Subhani](https://github.com/Abdul-Wahab-Subhani)**
